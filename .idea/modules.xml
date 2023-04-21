@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sale-api.iml" filepath="$PROJECT_DIR$/sale-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-api-application/sale-api-application.iml" filepath="$PROJECT_DIR$/sale-api-application/sale-api-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-api-common/sale-api-common.iml" filepath="$PROJECT_DIR$/sale-api-common/sale-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-api-domain/sale-api-domain.iml" filepath="$PROJECT_DIR$/sale-api-domain/sale-api-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-api-infrastructure/sale-api-infrastructure.iml" filepath="$PROJECT_DIR$/sale-api-infrastructure/sale-api-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-api-interfaces/sale-api-interfaces.iml" filepath="$PROJECT_DIR$/sale-api-interfaces/sale-api-interfaces.iml" />
+    </modules>
+  </component>
+</project>

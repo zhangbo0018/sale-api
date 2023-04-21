@@ -1,0 +1,1 @@
+package com.yubao.sale.api.domain;
